@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://ebxaybeha2p4"]
+
+[node name="Zombie" type="AnimatedSprite2D"]
+scale = Vector2(1.37603, 1.875)
+autoplay = "default"
+flip_h = true
